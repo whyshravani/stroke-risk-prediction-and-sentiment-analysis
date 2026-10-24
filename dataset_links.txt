@@ -1,0 +1,14 @@
+Dataset Sources
+===============
+
+1. Stroke Risk Dataset (structured/numeric-categorical)
+   File: stroke_risk_dataset.csv
+   Source: Kaggle - Stroke Risk Prediction Dataset
+   https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset-v2
+
+2. Drug Reviews Dataset (text)
+   Files: drugsComTrain_raw.csv, drugsComTest_raw.csv
+   Source: UCI Machine Learning Repository - Drug Review Dataset (Drugs.com)
+   https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com
+   Also mirrored on Kaggle:
+   https://www.kaggle.com/datasets/jessicali9530/kuc-hackathon-winter-2018
